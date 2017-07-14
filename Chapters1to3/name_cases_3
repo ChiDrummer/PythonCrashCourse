@@ -1,0 +1,3 @@
+name = "Karen Carpenter"
+message = name + ' once said, "People never think of entertainers being human."
+print(message)
